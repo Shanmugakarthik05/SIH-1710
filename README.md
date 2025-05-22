@@ -75,3 +75,13 @@ Ministry of Railway
 
 * Regulatory & Compliance Dependencies
 
+
+## 🗓️ Estimated Timeline
+![Time line](https://github.com/user-attachments/assets/de4d426c-d5ba-43e7-b22c-73fdd9a39e21)
+## Total Development Time: 90–120 days (3–4 months)
+
+
+
+## 💰 Estimated Budget
+![Budget](https://github.com/user-attachments/assets/e033a0ce-ae20-4a2f-974f-0e284f67ab80)
+## Total Estimated Budget:$157,000
